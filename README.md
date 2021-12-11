@@ -5,4 +5,6 @@ The python notebook (Google colab) link is : https://colab.research.google.com/d
 
 The dataset used for this project is at : https://docs.google.com/spreadsheets/d/1cNZF7WZMC8EilYWb8W6Ak1R6nNdk-jPgEjusff2Lj7k/edit?usp=sharing
 
+This project's presentation can be found here : https://docs.google.com/presentation/d/1BHvYFqW6S5d0M0U3DJCgl3KzzHvGrnXEObBFhcSa5OM/edit?usp=sharing
+
 The project report can be found at : https://docs.google.com/document/d/1mem9R0_tDHAjLhmbATUvm742F0ZtsTlJIda4Ud6-HrA/edit?usp=sharing
