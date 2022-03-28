@@ -3,7 +3,7 @@ This repo has all the project files for building an ML model to predict the seve
 
 1. [Google colab notebook](https://github.com/ritvik-chebolu/Acute-Ischemic-Stroke-Prediction/blob/main/Acute_Ischemic_Stroke_Prediction.ipynb)
 
-2. [Project report](https://docs.google.com/document/d/1mem9R0_tDHAjLhmbATUvm742F0ZtsTlJIda4Ud6-HrA/edit?usp=sharing)
+2. [Project report](https://docs.google.com/document/d/1ZVsonRynmAsxGZw2BLKrY8D7oIZ6xdR-tUDu9xBbLmY/edit?usp=sharing)
  
 3. [Dataset](https://docs.google.com/spreadsheets/d/1cNZF7WZMC8EilYWb8W6Ak1R6nNdk-jPgEjusff2Lj7k/edit?usp=sharing)
 
