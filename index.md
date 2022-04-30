@@ -2,41 +2,30 @@
 
 Using a machine learning based approach to predict hemorrhagic stroke severity in susceptible patients.
 
-The whole documentation and source code for this project can be found here ([GitHub repo](https://github.com/ritvik-chebolu/Acute-Ischemic-Stroke-Prediction)).
-
 ## The Beneficiaries
 
 Doctors could make the best use of this approach to decide and act upon accordingly for patients with high risk would require different treatment and medication since the time of admission. This could save lives since a time of action plays a crucial role in determining the lifespan of a patient stuck in coma. 
 In return, such an approach where a model is trained over time with more such datapoints (new patients) could save more lives thereby increasing the medical standards. 
 
-### The Hypothesis
+## Initital Hypothesis  
+The primary assumption made was that all medical factors could be contributing factors to predict the severity of strokes in patients.  
 
-The primary assumption made was that all medical factors could be contributing factors to predict the severity of strokes in patients.   
+## Documentation  
+This repo has all the project files for building an ML model to predict the severity of acute ischemic strokes (brain strokes) observed in patients. For quick navigation, use the following links: 
 
-```markdown
-Syntax highlighted code block
+1. [Google colab notebook](https://github.com/ritvik-chebolu/Acute-Ischemic-Stroke-Prediction/blob/main/Acute_Ischemic_Stroke_Prediction.ipynb)
 
-# Header 1
-## Header 2
-### Header 3
+2. [Project report](https://docs.google.com/document/d/1ZVsonRynmAsxGZw2BLKrY8D7oIZ6xdR-tUDu9xBbLmY/edit?usp=sharing)
+ 
+3. [Dataset](https://docs.google.com/spreadsheets/d/1cNZF7WZMC8EilYWb8W6Ak1R6nNdk-jPgEjusff2Lj7k/edit?usp=sharing)
 
-- Bulleted
-- List
+4. [Presentation slides](https://docs.google.com/presentation/d/1BHvYFqW6S5d0M0U3DJCgl3KzzHvGrnXEObBFhcSa5OM/edit?usp=sharing)
 
-1. Numbered
-2. List
+## Appendix
 
-**Bold** and _Italic_ and `Code` text
+© 2021 Dr. Harshika Chebolu  
+All copyrights of the dataset belong to Dr. Harshika Chebolu, Post Graduate in General Medicine at Gandhi Medical Hospital, Hyderabad, India.  
 
-[Link](url) and ![Image](src)
-```
+### Support
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ritvik-chebolu/Acute-Ischemic-Stroke-Prediction/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble understanding or implementing this project? Check out the [documentation](https://github.com/ritvik-chebolu/Acute-Ischemic-Stroke-Prediction/edit/gh-pages/index.md#documentation) or create a pull request and I could help you sort it out.
