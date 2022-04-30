@@ -1,12 +1,17 @@
-## Welcome to GitHub Pages
+## Aim of this project
 
-You can use the [editor on GitHub](https://github.com/ritvik-chebolu/Acute-Ischemic-Stroke-Prediction/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Using a machine learning based approach to predict hemorrhagic stroke severity in susceptible patients.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The whole documentation and source code for this project can be found here ([GitHub repo](https://github.com/ritvik-chebolu/Acute-Ischemic-Stroke-Prediction)).
 
-### Markdown
+## The Beneficiaries
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Doctors could make the best use of this approach to decide and act upon accordingly for patients with high risk would require different treatment and medication since the time of admission. This could save lives since a time of action plays a crucial role in determining the lifespan of a patient stuck in coma. 
+In return, such an approach where a model is trained over time with more such datapoints (new patients) could save more lives thereby increasing the medical standards. 
+
+### The Hypothesis
+
+The primary assumption made was that all medical factors could be contributing factors to predict the severity of strokes in patients.   
 
 ```markdown
 Syntax highlighted code block
