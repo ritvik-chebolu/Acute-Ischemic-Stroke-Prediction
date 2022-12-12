@@ -3,6 +3,10 @@
 
 A machine learning approach for early prediction of acute ischemic strokes in patients based on their medical history.  
 
+The goal of using an Ensemble Machine Learning model is to improve the performance of the model by combining the predictive powers of multiple models, which can reduce overfitting and improve the generalizability of the model.
+Out of the two approaches for an ensemble model, simple/weighted average and the majority vote, the former seemed to be the best way to proceed since it has a weighted contribution to the final prediction. The majority vote on the other hand, only considers the most common prediction among individual models.
+
+With a relatively smaller dataset (although quite big in terms of a healthcare facility), every possible effort to minimize or eliminate overfitting was made, ranging from methods like k-fold cross validation to hyperparameter optimization (using grid search CV) to find the best value for each parameters in a model.
 
 
 ## Documentation
