@@ -25,6 +25,6 @@ This repo has all the project files for building an ML model to predict the seve
 ## Appendix
 
 © 2021 Dr. Harshika Chebolu  
-All copyrights of the dataset belong to Dr. Harshika Chebolu, Post Graduate in General Medicine at Gandhi Medical Hospital, Hyderabad, India.  
+All copyrights of the dataset belong to Dr. Harshika Chebolu - Neurologist and MD in General Medicine at Gandhi Medical Hospital, Hyderabad, India.  
  
 
